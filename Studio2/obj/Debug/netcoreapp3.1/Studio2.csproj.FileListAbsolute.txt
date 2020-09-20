@@ -1,0 +1,13 @@
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.exe
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.deps.json
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.runtimeconfig.json
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.runtimeconfig.dev.json
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.dll
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\bin\Debug\netcoreapp3.1\Studio2.pdb
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.csprojAssemblyReference.cache
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.AssemblyInfoInputs.cache
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.AssemblyInfo.cs
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.csproj.CoreCompileInputs.cache
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.dll
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.pdb
+C:\Users\cjall\Documents\lc101\C#\Studio2\Studio2\obj\Debug\netcoreapp3.1\Studio2.genruntimeconfig.cache
